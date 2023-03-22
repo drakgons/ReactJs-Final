@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial,
+    sans-serif;
+  color: #6f59d7;
+  /* background: #6f59d7; */
+  font-size: 46px;
+  border-radius: 2rem;
+}
+
+.itemListContainer {
+  display: flex;
+}

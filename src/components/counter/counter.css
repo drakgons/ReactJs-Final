@@ -1,0 +1,17 @@
+.controls {
+  display: inline-flex;
+  align-items: center;
+  margin: 10px 0px;
+  padding: 0.5px 50px;
+  border-radius: 8px;
+  color: #673ab7;
+}
+
+.controls h3 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.controls button {
+  padding: 0rem 1rem;
+}

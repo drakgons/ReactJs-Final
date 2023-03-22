@@ -1,0 +1,33 @@
+.card {
+  margin: 1rem;
+  padding: 0rem 0.5rem 1.5rem;
+  width: 300px;
+  height: auto;
+  border-radius: 0.5rem;
+  background-color: whitesmoke;
+  transition: all 0.5s;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 15px 20px 20px 3px #d9d9d9;
+}
+.cardTitle {
+  position: relative;
+  top: 1rem;
+  font-size: x-large;
+  color: #673ab7;
+  font-style: italic;
+}
+
+.cardImg img {
+  width: 100%;
+  height: auto;
+  margin: auto auto;
+}
+
+a p {
+  max-width: 60%;
+  margin: auto;
+  margin-top: 1rem;
+}
