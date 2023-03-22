@@ -9,6 +9,10 @@ El proyecto se puede adaptar y mejorar segun el tipo de negocio sea conveniente.
 
 
 
+https://user-images.githubusercontent.com/69168426/227056879-8503aae1-b022-40d6-ade7-721bffd86df9.mp4
+
+
+
 ## Comandos para ejecutar localmente el proyecto
 
 Clona el repositorio
